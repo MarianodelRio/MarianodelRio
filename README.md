@@ -27,6 +27,11 @@ Background in Mathematics and Computer Engineering. I work across AI engineering
 
 ## Selected projects
 
+### 🏭 [swfactory](https://github.com/MarianodelRio/swfactory)
+**A reusable software factory for agentic development.**
+
+Set up any repository for AI-assisted development with Claude Code or Codex, shared context and memory, isolated Git worktrees, task management and GitHub integration. Designed to make multi-agent development easy to set up, observable and reusable across projects.
+
 ### 🧠 [dev-team](https://github.com/MarianodelRio/dev-team)
 **Spec-driven software development with teams of AI agents.**
 

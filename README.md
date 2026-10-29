@@ -42,7 +42,7 @@ Requirements → design → planning → implementation → review, with special
 
 Research, analysis, modeling, evaluation and reporting coordinated by specialized agents to turn a data science problem into a reproducible workflow.
 
-### ⚙️ [FlowPilot](https://github.com/MarianodelRio/flowpilot)
+### ⚙️ [Autobot](https://github.com/MarianodelRio/autobot)
 **Multi-tenant platform for business automation.**
 
 Designed to generalize the ideas behind my real-world automation projects into reusable workflows and conversational systems for multiple clients.
